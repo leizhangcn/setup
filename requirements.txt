@@ -1,3 +1,4 @@
+setuptools
 ipython
 ipdb
 easydict
@@ -8,7 +9,7 @@ future
 scikit-image
 lmdb
 pygments
-django
+django==1.11
 Cython
 progressbar
 protobuf
